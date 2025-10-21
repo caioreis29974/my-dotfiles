@@ -94,7 +94,7 @@ Move the wallpaper file to your preferred image directory, or set the path direc
 
 #### Option (Move the file):
 
-# Copy the file to your Pictures folder
+### Copy the file to your Pictures folder
 
 ``` bash
 cp ~/Documents/my-dotfiles/My Wallpaper/wallpaper.png ~/Pictures/
