@@ -212,23 +212,12 @@
 
 [color]
 
-# Use o nome da cor do terminal que você já corrigiu.
 color = '#7091B6' 
 
 foreground = '#7091B6'
 
-# Mantenha o gradiente desativado
 gradient = 0
 
-# Degradê de azul escuro para azul claro do seu wal
-# Colors can be one of seven predefined: black, blue, cyan, green, magenta, red, white, yellow.
-# Or defined by hex code '#xxxxxx' (hex code must be within ''). User defined colors requires
-# a terminal that can change color definitions such as Gnome-terminal or rxvt.
-# default is to keep current terminal color
-# background = default
-# foreground = default
-
-# SDL and sdl_glsl only support hex code colors, these are the default:
 # background = '#111111'
 # foreground = '#33ffff'
 
@@ -238,7 +227,7 @@ gradient = 0
 # You can defene as many as 8 different colors. They range from bottom to top of screen
 
 [colors]
-# Certifique-se de que esta linha esteja ativa
+
 [smoothing]
 
 # Percentage value for integral smoothing. Takes values from 0 - 100.

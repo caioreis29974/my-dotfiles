@@ -1,3 +1,5 @@
+// Configuration file for fastfetch.
+
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "display": {
@@ -6,7 +8,6 @@
     "modules": [
         {
             "type": "custom",
-            // "format": "\u001b[36m    コンピューター"
             "format": "\u001b[1;37m   ⮞  System Specs"
         },
         {
@@ -52,7 +53,6 @@
         "break",
         {
             "type": "custom",
-            // "key": "   ",
             "format": "\u001b[1;37m   ⮞  Software Specs"
         },
         {
@@ -96,25 +96,7 @@
         },
         "break",
         {
-            "type": "colors",
-            "colorUrls": [
-                "#1a1a33",
-                "#2e2e58",
-                "#41417a",
-                "#55559f",
-                "#6a6af0",
-                "#7c7cff",
-                "#8c8cff",
-                "#9ea0ff",
-                "#4c6a7a",
-                "#607d8b",
-                "#7b919d",
-                "#92a6b0",
-                "#a8bac2",
-                "#bfcdd4",
-                "#d6e0e5",
-                "#ebf1f3"
-            ]
+            "type": "colors"
         }
     ]
 }
