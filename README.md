@@ -1,7 +1,10 @@
-<div align="center">
-<h1>✯ My Dotfiles</h1> 
-This repository contains my personal configuration files (dotfiles) and the necessary documentation to quickly replicate my Linux work environment, focused on aesthetics and productivity on **Fedora (GNOME Desktop)**.
-</div>
+<p align="center">
+  <h1>✯ My Dotfiles ✯</h1>
+</p>
+
+<p align="center">
+  This repository contains my personal configuration files (dotfiles) and the necessary documentation to quickly replicate my Linux work environment, focused on aesthetics and productivity on <strong>Fedora (GNOME Desktop)</strong>.
+</p>
 
 <div align="center">
   <img src="assets/desktop-screenshot.png" alt="Desktop Screenshot" width="800px"/>
