@@ -1,0 +1,7 @@
+blur-my-shell@aunetx
+compiz-windows-effect@hermes83.github.com
+dash2dock-lite@icedman.github.com
+forge@jmmaranan.com
+logomenu@aryan_k
+spotify-ad-block@danigm.net
+spotify-controls@Sonath21

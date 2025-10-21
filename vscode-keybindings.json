@@ -1,0 +1,14 @@
+// Place your key bindings in this file to override the defaults
+// Conteúdo do seu keybindings.json
+[
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.terminal.new",
+        "when": "!terminalFocus" 
+    },
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.terminal.focus",
+        "when": "terminalFocus"
+    }
+]

@@ -1,0 +1,10 @@
+formulahendry.auto-rename-tag
+lukinco.lukin-vscode-theme
+mechatroner.rainbow-csv
+morgan-codes.morgan-codes-vscode-theme
+naumovs.color-highlight
+oderwat.indent-rainbow
+rendinjast.amoled-black
+ritwickdey.liveserver
+s-nlf-fh.glassit
+tal7aouy.icons

@@ -1,0 +1,16 @@
+{
+    "glassit.alpha": 220,
+    "workbench.colorTheme": "morgan.codes",
+    "workbench.iconTheme": "icons",
+    "terminal.integrated.fontFamily": "\"FiraCode Nerd Font\"",
+    "editor.fontFamily": "\"Fira Code\", monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}

@@ -1,0 +1,120 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "display": {
+        "separator": "  "
+    },
+    "modules": [
+        {
+            "type": "custom",
+            // "format": "\u001b[36m    コンピューター"
+            "format": "\u001b[1;37m   ⮞  System Specs"
+        },
+        {
+            "type": "custom",
+            "format": "┌─────────────────────────────────────────────────┐"
+        },
+        {
+            "type": "host",
+            "key": "    Host   ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "display",
+            "key": "  󰍹  Display",
+            "keyColor": "blue"
+        },
+        {
+            "type": "cpu",
+            "format": "{1}",
+            "key": "    CPU    ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "gpu",
+            "format": "{2}",
+            "key": "    GPU    ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "memory",
+            "key": "    Memory ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "disk",
+            "key": "    Disk   ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "custom",
+            "format": "└─────────────────────────────────────────────────┘"
+        },
+        "break",
+        {
+            "type": "custom",
+            // "key": "   ",
+            "format": "\u001b[1;37m   ⮞  Software Specs"
+        },
+        {
+            "type": "custom",
+            "format": "┌─────────────────────────────────────────────────┐"
+        },
+        {
+            "type": "os",
+            "key": "    OS     ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "kernel",
+            "key": "    Kernel ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "wm",
+            "key": "    WM     ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "packages",
+            "key": "    Package",
+            "keyColor": "blue"
+        },
+        {
+            "type": "uptime",
+            "key": "    Uptime ",
+            "keyColor": "blue"
+        },
+        {
+            "type": "command",
+            "key": "  󱎫  OS Age ",
+            "keyColor": "blue",
+            "text": "birth_install=$(stat -c %W /); current=$(date +%s); echo $(((current-birth_install)/86400)) days"
+        },
+        {
+            "type": "custom",
+            "format": "└─────────────────────────────────────────────────┘"
+        },
+        "break",
+        {
+            "type": "colors",
+            "colorUrls": [
+                "#1a1a33",
+                "#2e2e58",
+                "#41417a",
+                "#55559f",
+                "#6a6af0",
+                "#7c7cff",
+                "#8c8cff",
+                "#9ea0ff",
+                "#4c6a7a",
+                "#607d8b",
+                "#7b919d",
+                "#92a6b0",
+                "#a8bac2",
+                "#bfcdd4",
+                "#d6e0e5",
+                "#ebf1f3"
+            ]
+        }
+    ]
+}
