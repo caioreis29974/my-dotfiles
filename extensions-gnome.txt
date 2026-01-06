@@ -1,7 +1,12 @@
 blur-my-shell@aunetx
 compiz-windows-effect@hermes83.github.com
 dash2dock-lite@icedman.github.com
-forge@jmmaranan.com
 logomenu@aryan_k
 spotify-ad-block@danigm.net
 spotify-controls@Sonath21
+apps-menu@gnome-shell-extensions.gcampax.github.com
+background-logo@fedorahosted.org
+launch-new-instance@gnome-shell-extensions.gcampax.github.com
+places-menu@gnome-shell-extensions.gcampax.github.com
+window-list@gnome-shell-extensions.gcampax.github.com
+appindicatorsupport@rgcjonas.gmail.com
